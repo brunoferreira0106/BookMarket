@@ -37,8 +37,8 @@
 <h2>How to run</h2>
 
 ```
-git clone https://github.com/nunofbcastro-ESTG-IPP/PAW.git
-cd PAW
+git clone https://github.com/brunoferreira0106/BookMarket.git
+cd BookMarket
 ```
 
 Before executing it, you have to change the STRIPE_SK, email and emailPassword values in the BackOffice/.env file and the stripe_pk value in the FrontOffice/src/environments/environment.ts file
